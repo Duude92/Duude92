@@ -2,7 +2,7 @@
 <h3 align="center">A developer of various fields.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on (hammertime)[https://github.com/Duude92/hammertime]<br>
+🔭 I’m currently working on [hammertime](https://github.com/Duude92/hammertime)<br>
 
 
 # 💻 Tech Stack:
